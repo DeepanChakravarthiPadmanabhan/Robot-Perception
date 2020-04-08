@@ -1,6 +1,6 @@
 # Robot-Perception
 
-This repository contains the assignments done for the summer semester 2020 course, 'Robot Perception'
+This repository contains the assignments done for the summer semester 2020 course, 'Robot Perception'.
 
 ### Team Members:
 
