@@ -7,3 +7,5 @@ This repository contains the assignments done for the summer semester 2020 cours
 [Deepan Chakravarthi Padmanabhan](https://github.com/DeepanChakravarthiPadmanabhan)
 
 [Santosh Muthireddy](https://github.com/santoshreddy254)
+
+[Jaswanth Bandlamudi](https://github.com/jaswanthbjk)
