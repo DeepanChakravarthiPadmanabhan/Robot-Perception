@@ -1,2 +1,2 @@
 # Files to not commit
-.ipynb
+*.ipynb_checkpoints*
